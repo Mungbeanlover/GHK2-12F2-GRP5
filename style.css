@@ -366,7 +366,7 @@ footer .copyright {text-align: start;}
 #close {display: none;}
 
 /*shop page*/
-#page-header { background-image: url("put image here");
+#page-header { background-image: url("hero4.jpg");
 width: 100%;
 height: 40vh;
 background-size: cover; display: flex; justify-content: center; text-align: center; flex-direction: column;}
