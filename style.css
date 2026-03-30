@@ -64,7 +64,7 @@ body {
     left: 20px;
 }
 #hero {
-    background-image: url("fahh.jpeg");
+    background-image: url("../assets/img/fahh.jpeg");
     height: 90vh;
     width: 100%;
     background-size: cover;
@@ -192,8 +192,8 @@ body {
 
 /*Small banner2*/
 #sm-banner{ display: flex; justify-content: space-between; flex-wrap: wrap;}
-#sm-banner .banner-box{display: flex; flex-direction: column; justify-content: center; align-items: flex-start; min-width: 540px; height: 50vh; background-image: url(hoho.jpg); background-size: cover; background-position: center; padding: 30px;}
-#sm-banner .banner-box2{background-image: url(huhu.jpg);}
+#sm-banner .banner-box{display: flex; flex-direction: column; justify-content: center; align-items: flex-start; min-width: 540px; height: 50vh; background-image: url(../assets/img/hoho.jpg); background-size: cover; background-position: center; padding: 30px;}
+#sm-banner .banner-box2{background-image: url(../assets/img/huhu.jpg);}
 #sm-banner h4{color: white; font-size: 20px; font-weight: 300;}
 #sm-banner h2{color: white; font-size: 20px; font-weight: 800;}
 #sm-banner span{color: white; font-size: 14px; font-weight: 500; padding-bottom: 15px;}
@@ -204,8 +204,8 @@ button.white{font-size: 13px; font-weight: 600px; padding: 11px 18px;color: rgb(
 /*Small 3 banner*/
 #banner3 {display: flex ; justify-content: space-between; flex-wrap: wrap; padding: 0 80px;}
 #banner3 .banner-box{display: flex; flex-direction: column; justify-content: center; align-items: flex-start; background-image: url(haha.jpg); min-width: 30%; height: 30vh; background-size: cover; background-position: center; padding: 20px; margin-bottom: 20px;}
-#banner3 .banner-box2{background-image: url(hihi.jpg);}
-#banner3 .banner-box3{background-image: url(Cake.jpg);}
+#banner3 .banner-box2{background-image: url(../assets/img/hihi.jpg);}
+#banner3 .banner-box3{background-image: url(../assets/img/Cake.jpg);}
 
 
 #banner h2{color: white; font-weight: 900; font-size: 22px;}
@@ -364,7 +364,7 @@ footer .copyright {text-align: start;}
 
 
 /*shop page*/
-#page-header { background-image: url("hero4.jpg");
+#page-header { background-image: url("../assets/img/hero4.jpg");
 width: 100%;
 height: 40vh;
 background-size: cover; display: flex; justify-content: center; text-align: center; flex-direction: column;}
