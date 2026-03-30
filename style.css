@@ -392,9 +392,7 @@ background-size: cover; display: flex; justify-content: center; text-align: cent
 
 
 /* blog page */
-#page-header {
-    background-image: url();  /*thêm file background*/
-}
+
 #blog{
     padding: 150px 150px 0 150px;
 }
