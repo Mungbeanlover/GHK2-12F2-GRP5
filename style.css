@@ -493,14 +493,14 @@ background-size: cover; display: flex; justify-content: center; text-align: cent
 
 /*about page*/
 #page-header.about-header {
-    background-image: src="";}
+    background-image: url;}
         
 #about-head {
     display: flex;
     align-items: center;
 }
 #about-head img{
-    width: 50;
+    width: 50%;
     height: auto;}
 
 #about-head div{
@@ -520,7 +520,7 @@ background-size: cover; display: flex; justify-content: center; text-align: cent
     height: 100%;
     border-radius: 20px;
 }
-}
+
 
 
 
