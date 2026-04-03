@@ -206,9 +206,9 @@ button.white{font-size: 13px; font-weight: 600px; padding: 11px 18px;color: rgb(
 #banner3 {display: flex ; justify-content: space-between; flex-wrap: wrap; padding: 0 80px;}
 #banner3 
 #banner3 .banner-box{display: flex; flex-direction: column; justify-content: center; align-items: flex-start; background-image: url("assets/img/haha.jpg"); min-width: 30%; height: 30vh; 
-                     background-size: 350px; background-position: center; padding: 20px; margin-bottom: 20px;}
-#banner3 .banner-box2{background-image: url("assets/img/hihi.jpg"); background-size: 350px;}
-#banner3 .banner-box3{background-image: url("assets/img/Cake.jpg") background-size: 350px;;}
+                     background-size: cover; background-position: center; padding: 20px; margin-bottom: 20px;}
+#banner3 .banner-box2{background-image: url("assets/img/hihi.jpg"); }
+#banner3 .banner-box3{background-image: url("assets/img/Cake.jpg");}
 
 
 #banner h2{color: white; font-weight: 900; font-size: 22px;}
